@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://youtubetranscript.dev/logo.svg" alt="YouTubeTranscript.dev" width="60" />
+  <img src="https://www.youtubetranscript.dev/logo.svg" alt="YouTubeTranscript.dev" width="60" />
 </p>
 
 <h1 align="center">youtube-transcript-api</h1>
 
 <p align="center">
-  Official Node.js / TypeScript SDK for the <a href="https://youtubetranscript.dev">YouTubeTranscript.dev</a> API (V2).
+  Official Node.js / TypeScript SDK for the <a href="https://www.youtubetranscript.dev">YouTubeTranscript.dev</a> API (V2).
 </p>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/youtube-audio-transcript-api"><img src="https://img.shields.io/npm/v/youtube-audio-transcript-api" alt="npm" /></a>
-  <a href="https://youtubetranscript.dev"><img src="https://img.shields.io/badge/API-v2-brightgreen" alt="API Version" /></a>
+  <a href="https://www.youtubetranscript.dev"><img src="https://img.shields.io/badge/API-v2-brightgreen" alt="API Version" /></a>
   <a href="https://github.com/volodstaimi/youtube-transcript-sdk/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/youtube-audio-transcript-api" alt="License" /></a>
 </p>
 
@@ -42,7 +42,7 @@ const result = await yt.getTranscript("dQw4w9WgXcQ");
 console.log(result.data?.transcript.text);
 ```
 
-Get your API key at **[youtubetranscript.dev](https://youtubetranscript.dev)**
+Get your API key at **[youtubetranscript.dev](https://www.youtubetranscript.dev)**
 
 ## Features
 
@@ -243,14 +243,14 @@ const yt = new YouTubeTranscript({
 ## Requirements
 
 - Node.js 18+ (uses native `fetch`)
-- API key from [youtubetranscript.dev](https://youtubetranscript.dev)
+- API key from [youtubetranscript.dev](https://www.youtubetranscript.dev)
 
 ## Links
 
-- 🌐 [Website](https://youtubetranscript.dev)
-- 📖 [Full API Docs](https://youtubetranscript.dev/api-docs)
-- 📐 [OpenAPI Spec](https://youtubetranscript.dev/api-docs#openapi)
-- 💰 [Pricing](https://youtubetranscript.dev/pricing)
+- 🌐 [Website](https://www.youtubetranscript.dev)
+- 📖 [Full API Docs](https://www.youtubetranscript.dev/api-docs)
+- 📐 [OpenAPI Spec](https://www.youtubetranscript.dev/api-docs#openapi)
+- 💰 [Pricing](https://www.youtubetranscript.dev/pricing)
 - 🐛 [Issues & Feedback](https://github.com/volodstaimi/Youtube-Transcript-API/issues)
 - 📝 [Examples & Docs Repo](https://github.com/volodstaimi/Youtube-Transcript-API)
 
